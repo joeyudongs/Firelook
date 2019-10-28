@@ -1,5 +1,5 @@
-# Firelook: 
-a LBS based Android App for Tourists and Local Residents
+# Firelook
+a LBS based Android App for users to post and search nearby events
 
 1. Developed an Android App for users to post events and search nearby events based on keyword hashtags with Java, Android Studio and Google Firebase
 2. Utilized Firebase realtime database and storage to store and manage user-created content including event titles, messages, locations and images
